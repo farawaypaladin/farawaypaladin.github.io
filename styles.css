@@ -1,0 +1,22 @@
+body
+{
+	background-color: powderblue;
+	background-image: url("holo.png");
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.menu
+{
+	text-align: left;
+	margin-top: 200px;
+	margin-left: 600px;
+}
+
+.menu a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 40px;
+	font-family: 'Source Code Pro', monospace;
+}
